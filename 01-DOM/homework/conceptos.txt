@@ -1,0 +1,6 @@
+DOM: es donde se encuentra todo nuestro documento html, que va a ser procesado por el browser. 
+Tambien es mediante el cual podemos editar cosas del html con javascript
+
+DOM element selectores: son selectores del lenguaje javascript que se usan para modificar el documento html.
+
+DOM events: son funciones que se ejecuta cuando sucede un evento en particular, como un click,

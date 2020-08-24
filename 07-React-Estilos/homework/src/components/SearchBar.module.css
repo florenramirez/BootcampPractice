@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 10px;
+    display: flexbox;
+    justify-content: center;
+    
+
+}
+
+.border{
+    border: 2px solid lightslategray;
+    border-radius: 5px;
+
+    
+}
+
+.btnAgregar{
+    background-color: grey;
+    color: whitesmoke;
+    border: 2px solid lightslategray;
+    margin: 3px;
+}

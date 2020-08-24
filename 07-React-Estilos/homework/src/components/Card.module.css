@@ -1,0 +1,33 @@
+.text{
+    font-size: 25px;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+.cardContainer{
+    width: 300px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin: auto;
+    background-color: lightsteelblue;
+}
+
+.btn{
+    height: 30px;
+    float:right;
+    background-color: red;
+    margin: 3px;
+}
+
+.subContainer{
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+    
+}
+
+.whiteText{
+    font-size: 18px;
+    color:white;
+    padding-top: 0px;
+}
